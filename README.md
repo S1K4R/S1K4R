@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy S1K4R! 👋
 
-<!--
-**S1K4R/S1K4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en construir aplicaciones web modernas, limpias y eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías & Herramientas
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS
+- **Backend:** Go (Golang), Gin, APIs REST
+- **Bases de Datos:** PostgreSQL, pgx
+- **Herramientas:** Git, VS Code, pgAdmin 4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Proyectos Destacados
+
+#### 🗓️ [Weekflow](https://github.com/S1K4R/weekflow)
+Un planificador semanal minimalista inspirado en Tweek para organizar tareas y optimizar el flujo de trabajo.
+- **Stack:** Next.js 16 + Go (Gin) + PostgreSQL.
+- **Características:** Navegación dinámica por semanas, persistencia en BD SQL local/nube, actualización optimista en UI y diseño responsive.
+
+---
+
+📫 **¿Cómo contactarme?:** 
+- LinkedIn: [Tu Enlace]
+- Portfolio / Web: [Tu Enlace]
